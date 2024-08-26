@@ -1,6 +1,6 @@
 # Kasa-Smart-Devices
 
-# Control Kasa smart devices via WI-FI
+## Control Kasa smart devices via WI-FI
 
 The KasaSmartDicovery script discover all the Kasa devices on your local network and it's giving all the info of your devices.
 
